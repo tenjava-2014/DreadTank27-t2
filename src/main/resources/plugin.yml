@@ -1,0 +1,3 @@
+name: DreadTank27-t2
+main: com.tenjava.entries.DreadTank27.t2.TenJava
+version: '${project.version}'
